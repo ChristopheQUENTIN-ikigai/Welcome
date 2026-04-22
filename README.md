@@ -3,15 +3,15 @@
 Hello everybody,
 I hope you will find some interest in my experiments, please fork to add your ideas !
 
-dirty-now is better than perfect-never, so share without fear.
+Dirty-now is better than perfect-never, so share without fear.
 
-my website:
+My website:
 https://exosome.hospital/
 
-my substack:
+My substack:
 https://christophequentin.substack.com/
 
-my github:
+My github:
 https://github.com/ChristopheQUENTIN-ikigai/
 
 Have a good journey.
